@@ -1,0 +1,27 @@
+{
+  "name": "bedrock-ledger-ticket-service",
+  "version": "0.0.1",
+  "description": "Bedrock ledger",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-ticket-service.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-ticket-service/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-ledger-ticket-service",
+  "peerDependencies": {
+    "bedrock": "^1.13.0",
+    "bedrock-express": "^2.1.0",
+    "bedrock-ledger-context": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=8.11.0"
+  }
+}
